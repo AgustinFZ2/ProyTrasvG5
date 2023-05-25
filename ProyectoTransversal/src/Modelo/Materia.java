@@ -12,14 +12,12 @@ import javax.swing.JOptionPane;
  * @author Sergio
  */
 public class Materia {
-
     private int idMateria;
     private String nombre;
     private int anio;
     private int estado;
 
     public Materia() {
-        
     }
 
     public Materia(String nombre, int anio, int estado) {
